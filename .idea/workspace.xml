@@ -18,7 +18,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_add_groupp.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,14 +39,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581675701866" />
-    <state x="425" y="201" key="SettingsEditor" timestamp="1581675222037">
+    <state x="851" y="316" key="FileChooserDialogImpl" timestamp="1581936163238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581675222037" />
-    <state x="589" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1581674307444">
+    <state x="851" y="316" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581936163238" />
+    <state x="425" y="201" key="SettingsEditor" timestamp="1581676461221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="589" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581674307444" />
+    <state x="425" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581676461221" />
+    <state x="589" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1581936165428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581936165428" />
     <state x="587" y="288" width="672" height="678" key="search.everywhere.popup" timestamp="1581674610485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
