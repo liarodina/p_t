@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d282d0e9-33a4-49e1-8ed3-c05a73c2b595" name="Default Changelist" comment="" />
+    <list default="true" id="d282d0e9-33a4-49e1-8ed3-c05a73c2b595" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cym.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_add_group2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_add_groupp.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,8 +34,96 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_add_groupp.py" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/env0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_add_group.TestAddGroup">
+    <configuration name="add_group" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_group.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_add_group" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_add_group.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_add_group.TestAddGroup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add_group.TestAddGroup&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_add_group.py" type="tests" factoryName="Unittests" temporary="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.add_group" />
+      <item itemvalue="Python tests.pytest in test_add_group.py" />
+      <item itemvalue="Python tests.pytest for test_add_group.TestAddGroup" />
+      <item itemvalue="Python.test_add_group" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_add_group.TestAddGroup" />
+        <item itemvalue="Python.test_add_group" />
+        <item itemvalue="Python tests.pytest in test_add_group.py" />
+        <item itemvalue="Python.add_group" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,23 +138,84 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="345" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582110866352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582110866352" />
     <state x="510" y="368" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581675701866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="368" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581675701866" />
-    <state x="851" y="316" key="FileChooserDialogImpl" timestamp="1581936163238">
+    <state x="1001" y="445" key="#xdebugger.evaluate" timestamp="1582133054738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="851" y="316" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581936163238" />
-    <state x="425" y="201" key="SettingsEditor" timestamp="1581676461221">
+    <state x="1001" y="445" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582133054738" />
+    <state x="851" y="316" key="FileChooserDialogImpl" timestamp="1582049745169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581676461221" />
-    <state x="589" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1581936165428">
+    <state x="851" y="316" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582049745169" />
+    <state width="936" height="248" key="GridCell.Tab.0.bottom" timestamp="1582142363318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="589" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581936165428" />
+    <state width="936" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582142363318" />
+    <state width="936" height="248" key="GridCell.Tab.0.center" timestamp="1582142363318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582142363318" />
+    <state width="936" height="248" key="GridCell.Tab.0.left" timestamp="1582142363318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582142363318" />
+    <state width="936" height="248" key="GridCell.Tab.0.right" timestamp="1582142363318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582142363318" />
+    <state width="936" height="514" key="GridCell.Tab.1.bottom" timestamp="1582134721337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="514" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582134721337" />
+    <state width="936" height="514" key="GridCell.Tab.1.center" timestamp="1582134721337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="514" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582134721337" />
+    <state width="936" height="514" key="GridCell.Tab.1.left" timestamp="1582134721337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="514" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582134721337" />
+    <state width="936" height="514" key="GridCell.Tab.1.right" timestamp="1582134721337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="514" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582134721337" />
+    <state x="735" y="225" width="916" height="710" key="SettingsEditor" timestamp="1582111766568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="225" width="916" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582111766568" />
+    <state x="589" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1582049185518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582049185518" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1582050071605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582050071605" />
+    <state x="1139" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1582134521584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1139" y="166" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582134521584" />
     <state x="587" y="288" width="672" height="678" key="search.everywhere.popup" timestamp="1581674610485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
