@@ -1,14 +1,14 @@
 from selenium import webdriver
+from fixture.session import SessionHelper
+
 
 class Application:
     def __init__(self):
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(30)
         self.base_url = "http://localhost/addressbook/group.php"
-        self.verificationErrors = []
-    def logout(self):
-        wd = self.driver
-        wd.find_element_by_link_text("Logout").click()
+        self.session = SessionHelper(self)  # в качестве параметра передаем ссылку на фикстуру через обьект класса
+
 
     def return_to_group_page(self):
         wd = self.driver
@@ -34,14 +34,6 @@ class Application:
         wd = self.driver
         wd.find_element_by_link_text("groups").click()
 
-    def login(self, username, password):
-        self.open_home_page()
-        wd = self.driver
-        wd.find_element_by_name("user").clear()
-        wd.find_element_by_name("user").send_keys(username)
-        wd.find_element_by_name("pass").clear()
-        wd.find_element_by_name("pass").send_keys(password)
-        wd.find_element_by_css_selector("input[type=\"submit\"]").click()
 
     def open_home_page(self):
         wd = self.driver
