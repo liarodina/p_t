@@ -4,7 +4,7 @@ import self as self
 
 class SessionHelper:
 
-    # конструктор для доступа
+    # конструктор для доступа к драйверу
     def __init__(self, app):
         self.app = app
 
